@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" width="100%" alt="Tianyi Yu — Evidence before confidence. Clinical NLP, computer vision and biomedical imaging, trustworthy AI, prediction modelling, health informatics and AI for health." /></p>
+<p align="center"><img src="assets/research-focus.svg" width="100%" alt="Tianyi Yu — Evidence before confidence. Clinical NLP, computer vision and biomedical imaging, trustworthy AI, prediction modelling, health informatics and AI for health." /></p>
 
 <p align="center"><a href="https://github.com/terry0809000/research-portfolio"><strong>Explore the pipelines</strong></a> &nbsp; · &nbsp; <a href="https://scholar.google.com/citations?user=m8F5KU8AAAAJ">Google Scholar</a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0009-0311-4015">ORCID</a></p>
 
