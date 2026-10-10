@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center"><img src="assets/header.svg" width="100%" alt="Tianyi Yu — Evidence before confidence. Statistical modelling, health informatics and reliable machine learning." /></p>
 
-<!--
-**terry0809000/terry0809000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://github.com/terry0809000/research-portfolio"><strong>Explore the pipelines</strong></a> &nbsp; · &nbsp; <a href="https://scholar.google.com/citations?user=m8F5KU8AAAAJ">Google Scholar</a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0009-0311-4015">ORCID</a></p>
 
-Here are some ideas to get you started:
+I'm **Tianyi Yu**. My work connects statistical modelling with health informatics, focusing on what happens when predictive models meet new populations, changing measurements and imperfect data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build research pipelines for **clinical prediction**, **biomedical NLP** and **computational biology**. My recurring questions concern calibration, transportability, uncertainty and whether added model complexity earns its place.
+
+### Selected pipelines
+
+<table>
+<tr><td width="50%" valign="top"><h3>01 / TRACE-Fib</h3><p>Cross-organ gene-set classification under changing normalization and study weights.</p><p><sub>COMPUTATIONAL BIOLOGY · OPEN-DATA REANALYSIS</sub></p><a href="https://github.com/terry0809000/trace-fib-pipeline"><strong>Explore pipeline →</strong></a></td><td width="50%" valign="top"><h3>02 / Beyond Macro-F1</h3><p>Biomedical sentence classification examined through calibration and perturbation consistency.</p><p><sub>BIOMEDICAL NLP · VERSIONED EVIDENCE</sub></p><a href="https://github.com/terry0809000/beyond-macro-f1-pubmed-rct-public"><strong>Explore pipeline →</strong></a></td></tr>
+<tr><td valign="top"><h3>03 / Selective referral</h3><p>Skin-lesion modelling with lesion-level splits, calibration and risk–coverage evaluation.</p><p><sub>MEDICAL IMAGING · MODEL RELIABILITY</sub></p><a href="https://github.com/terry0809000/ham10000-trustworthy-skin-ai"><strong>Explore pipeline →</strong></a></td><td valign="top"><h3>04 / Temporal transport</h3><p>ARDS and AHRF prediction across time and ICU databases, with explicit site-shift audits.</p><p><sub>CLINICAL ML · CONTROLLED DATA ACCESS</sub></p><a href="https://github.com/terry0809000/ards-ahrf-ehr-temporal-validation"><strong>Explore pipeline →</strong></a></td></tr>
+<tr><td valign="top"><h3>05 / Reading dynamics</h3><p>Word-level eye-tracking analysis with lexical features, grouped evaluation and a reusable CLI.</p><p><sub>COGNITIVE DATA SCIENCE · PYTHON PACKAGE</sub></p><a href="https://github.com/terry0809000/zuco2-scientific-ml-pipeline"><strong>Explore pipeline →</strong></a></td><td valign="top"><h3>06 / Respiratory surveillance</h3><p>Next-week escalation modelling with rolling-origin validation and cluster-aware uncertainty.</p><p><sub>PUBLIC HEALTH · AGGREGATE TIME SERIES</sub></p><a href="https://github.com/terry0809000/bmc-dm-prediction-one-week"><strong>Explore pipeline →</strong></a></td></tr>
+</table>
+
+### How I approach research
+
+**Define the question.** Make the endpoint, population and information available at prediction time explicit.  
+**Test the transfer.** Separate model development from temporal, site and cross-corpus evaluation.  
+**Keep the evidence.** Preserve uncertainty, negative findings, provenance and the limits of each experiment.
+
+The [full pipeline index](https://github.com/terry0809000/research-portfolio) includes data-access requirements and scope notes. These repositories host research software and reproduction guides; clinical projects are research-only.
+
+<p align="center"><sub>Statistical care. Reproducible code. Claims matched to evidence.</sub></p>
