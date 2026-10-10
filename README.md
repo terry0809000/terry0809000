@@ -1,8 +1,10 @@
-<p align="center"><img src="assets/research-focus.svg" width="100%" alt="Tianyi Yu — Evidence before confidence. Clinical NLP, computer vision and biomedical imaging, trustworthy AI, prediction modelling, health informatics and AI for health." /></p>
+<p align="center"><img src="assets/tianyi-ai-health-portrait.png" width="100%" alt="Tianyi Yu — Curiosity meets care. An AI-assisted portrait with biomedical imagery." /></p>
 
 <p align="center"><a href="https://github.com/terry0809000/research-portfolio"><strong>Explore the pipelines</strong></a> &nbsp; · &nbsp; <a href="https://scholar.google.com/citations?user=m8F5KU8AAAAJ">Google Scholar</a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0009-0311-4015">ORCID</a></p>
 
-I'm **Tianyi Yu**. I build reproducible research software for understanding biomedical language, learning from medical images and evaluating predictions in health.
+I'm **Tianyi Yu**. I'm drawn to the stories hidden in clinical notes, the subtle signals in images, and the difficult questions behind a prediction.
+
+I want to build AI that earns people's trust. My research explores how models behave when data are incomplete, populations change, and a good benchmark score meets the complexity of care. Here I share the code, questions and lessons along the way.
 
 ### Research focus
 
