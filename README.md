@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/tianyi-ai-health-portrait.png" width="100%" alt="Tianyi Yu — Curiosity meets care. An AI-assisted portrait with biomedical imagery." /></p>
 
-<p align="center"><a href="https://github.com/terry0809000/research-portfolio"><strong>Explore the pipelines</strong></a> &nbsp; · &nbsp; <a href="https://scholar.google.com/citations?user=m8F5KU8AAAAJ">Google Scholar</a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0009-0311-4015">ORCID</a></p>
+<p align="center"><a href="https://terry0809000.github.io/research-portfolio/"><strong>Visit my website</strong></a> &nbsp; · &nbsp; <a href="https://github.com/terry0809000/research-portfolio"><strong>Explore the pipelines</strong></a> &nbsp; · &nbsp; <a href="https://scholar.google.com/citations?user=m8F5KU8AAAAJ">Google Scholar</a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0009-0311-4015">ORCID</a></p>
 
 I'm **Tianyi Yu**. I'm drawn to the stories hidden in clinical notes, the subtle signals in images, and the difficult questions behind a prediction.
 
