@@ -10,9 +10,9 @@ I want to build AI that earns people's trust. My research explores how models be
 
 | | |
 |:--|:--|
-| **01 / Clinical NLP**<br>Biomedical language understanding, sentence classification and cross-corpus evaluation. | **02 / Computer Vision & Biomedical Imaging**<br>Skin-lesion modelling, image classification and selective referral. |
-| **03 / Trustworthy AI**<br>Calibration, uncertainty, robustness and claims matched to evidence. | **04 / Prediction Modelling**<br>Clinical risk estimation, temporal validation and transportability. |
-| **05 / Health Informatics**<br>EHR analysis, clinical data pipelines and population health surveillance. | **06 / AI for Health**<br>Reproducible machine learning for health research, with explicit evaluation and data-access boundaries. |
+| **01 / Clinical NLP** · 7 projects<br>Biomedical language understanding, sentence classification and cross-corpus evaluation. | **02 / Computer Vision & Biomedical Imaging** · 6 projects<br>Skin-lesion modelling, image classification and selective referral. |
+| **03 / Trustworthy AI** · 9 projects<br>Calibration, uncertainty, robustness and claims matched to evidence. | **04 / Prediction Modelling** · 10 projects<br>Clinical risk estimation, temporal validation and transportability. |
+| **05 / Health Informatics** · 10 projects<br>EHR analysis, clinical data pipelines and population health surveillance. | **06 / AI for Health** · 10 projects<br>Reproducible machine learning for health research, with explicit evaluation and data-access boundaries. |
 
 ### Fresh questions, new code
 
