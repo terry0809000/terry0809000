@@ -8,6 +8,14 @@ I want to build AI that earns people's trust. My research explores how models be
 
 [About](https://terry0809000.github.io/about.html) · [Research](https://terry0809000.github.io/research.html) · [Projects](https://terry0809000.github.io/projects.html) · [Connect](https://terry0809000.github.io/connect.html)
 
+### Research constellation
+
+![Mind map of 12 projects across six research directions](https://raw.githubusercontent.com/terry0809000/research-portfolio/main/figures/selected-projects-cosmos.png)
+
+[Full-size mind map](https://github.com/terry0809000/research-portfolio/blob/main/figures/selected-projects-cosmos.png) · [Editable map and Mermaid source](https://github.com/terry0809000/research-portfolio/tree/main/figures) · [Research portfolio](https://github.com/terry0809000/research-portfolio)
+
+<sub>AI-generated conceptual science-fiction background, with separately editable project labels and connections.</sub>
+
 ### Selected research
 
 **12 projects across six connected directions.** Each project below links directly to its public code and documentation.
